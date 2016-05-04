@@ -220,6 +220,11 @@ hr.small {
     margin: 10px;
 }
 
+#living-quarters {
+    max-width: 500px; 
+    max-height: 333px;
+}
+
 /* Map */
 
 .map {
